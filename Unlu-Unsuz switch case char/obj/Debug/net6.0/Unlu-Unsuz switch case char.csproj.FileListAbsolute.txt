@@ -1,0 +1,15 @@
+C:\Users\batuh\Desktop\Okul\Ders Notları\Algoritma\Algoritma çalışmalar\Unlu-Unsuz switch case char\Unlu-Unsuz switch case char\obj\Debug\net6.0\Unlu-Unsuz switch case char.csproj.AssemblyReference.cache
+C:\Users\batuh\Desktop\Okul\Ders Notları\Algoritma\Algoritma çalışmalar\Unlu-Unsuz switch case char\Unlu-Unsuz switch case char\obj\Debug\net6.0\Unlu-Unsuz switch case char.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batuh\Desktop\Okul\Ders Notları\Algoritma\Algoritma çalışmalar\Unlu-Unsuz switch case char\Unlu-Unsuz switch case char\obj\Debug\net6.0\Unlu-Unsuz switch case char.AssemblyInfoInputs.cache
+C:\Users\batuh\Desktop\Okul\Ders Notları\Algoritma\Algoritma çalışmalar\Unlu-Unsuz switch case char\Unlu-Unsuz switch case char\obj\Debug\net6.0\Unlu-Unsuz switch case char.AssemblyInfo.cs
+C:\Users\batuh\Desktop\Okul\Ders Notları\Algoritma\Algoritma çalışmalar\Unlu-Unsuz switch case char\Unlu-Unsuz switch case char\obj\Debug\net6.0\Unlu-Unsuz switch case char.csproj.CoreCompileInputs.cache
+C:\Users\batuh\Desktop\Okul\Ders Notları\Algoritma\Algoritma çalışmalar\Unlu-Unsuz switch case char\Unlu-Unsuz switch case char\bin\Debug\net6.0\Unlu-Unsuz switch case char.exe
+C:\Users\batuh\Desktop\Okul\Ders Notları\Algoritma\Algoritma çalışmalar\Unlu-Unsuz switch case char\Unlu-Unsuz switch case char\bin\Debug\net6.0\Unlu-Unsuz switch case char.deps.json
+C:\Users\batuh\Desktop\Okul\Ders Notları\Algoritma\Algoritma çalışmalar\Unlu-Unsuz switch case char\Unlu-Unsuz switch case char\bin\Debug\net6.0\Unlu-Unsuz switch case char.runtimeconfig.json
+C:\Users\batuh\Desktop\Okul\Ders Notları\Algoritma\Algoritma çalışmalar\Unlu-Unsuz switch case char\Unlu-Unsuz switch case char\bin\Debug\net6.0\Unlu-Unsuz switch case char.dll
+C:\Users\batuh\Desktop\Okul\Ders Notları\Algoritma\Algoritma çalışmalar\Unlu-Unsuz switch case char\Unlu-Unsuz switch case char\bin\Debug\net6.0\Unlu-Unsuz switch case char.pdb
+C:\Users\batuh\Desktop\Okul\Ders Notları\Algoritma\Algoritma çalışmalar\Unlu-Unsuz switch case char\Unlu-Unsuz switch case char\obj\Debug\net6.0\Unlu-Unsuz switch case char.dll
+C:\Users\batuh\Desktop\Okul\Ders Notları\Algoritma\Algoritma çalışmalar\Unlu-Unsuz switch case char\Unlu-Unsuz switch case char\obj\Debug\net6.0\refint\Unlu-Unsuz switch case char.dll
+C:\Users\batuh\Desktop\Okul\Ders Notları\Algoritma\Algoritma çalışmalar\Unlu-Unsuz switch case char\Unlu-Unsuz switch case char\obj\Debug\net6.0\Unlu-Unsuz switch case char.pdb
+C:\Users\batuh\Desktop\Okul\Ders Notları\Algoritma\Algoritma çalışmalar\Unlu-Unsuz switch case char\Unlu-Unsuz switch case char\obj\Debug\net6.0\Unlu-Unsuz switch case char.genruntimeconfig.cache
+C:\Users\batuh\Desktop\Okul\Ders Notları\Algoritma\Algoritma çalışmalar\Unlu-Unsuz switch case char\Unlu-Unsuz switch case char\obj\Debug\net6.0\ref\Unlu-Unsuz switch case char.dll
